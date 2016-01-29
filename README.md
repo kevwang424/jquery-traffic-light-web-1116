@@ -23,4 +23,4 @@ You'll be coding your solution in `script.js`. Open up the file `script.js` file
 Save your changes to `script.js`. Refresh the page in the browser to see your changes!
 
 
-<a href='https://learn.co/lessons/jquery-traffic-light' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/jquery-traffic-light' title='Traffic Light'>Traffic Light</a> on Learn.co and start learning to code for free.</p>
